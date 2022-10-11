@@ -1,0 +1,18 @@
+C:\Users\DELL\OneDrive\Desktop\Kì V\Trí tuệ nhân tạo\tri-tue-nhan-tao-master\Image Puzzle\puzzle\bin\Debug\puzzle.exe
+C:\Users\DELL\OneDrive\Desktop\Kì V\Trí tuệ nhân tạo\tri-tue-nhan-tao-master\Image Puzzle\puzzle\bin\Debug\puzzle.pdb
+C:\Users\DELL\OneDrive\Desktop\Kì V\Trí tuệ nhân tạo\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Kì V\Trí tuệ nhân tạo\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.frmPuzzleGame.resources
+C:\Users\DELL\OneDrive\Desktop\Kì V\Trí tuệ nhân tạo\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Kì V\Trí tuệ nhân tạo\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\Kì V\Trí tuệ nhân tạo\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Kì V\Trí tuệ nhân tạo\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.exe
+C:\Users\DELL\OneDrive\Desktop\Kì V\Trí tuệ nhân tạo\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.pdb
+D:\Kì V\Trí tuệ nhân tạo\tri-tue-nhan-tao-master\Trò chơi xếp số\puzzle\bin\Debug\puzzle.exe
+D:\Kì V\Trí tuệ nhân tạo\tri-tue-nhan-tao-master\Trò chơi xếp số\puzzle\bin\Debug\puzzle.pdb
+D:\Kì V\Trí tuệ nhân tạo\tri-tue-nhan-tao-master\Trò chơi xếp số\puzzle\obj\x86\Debug\puzzle.csproj.AssemblyReference.cache
+D:\Kì V\Trí tuệ nhân tạo\tri-tue-nhan-tao-master\Trò chơi xếp số\puzzle\obj\x86\Debug\WindowsFormsApplication1.frmPuzzleGame.resources
+D:\Kì V\Trí tuệ nhân tạo\tri-tue-nhan-tao-master\Trò chơi xếp số\puzzle\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Kì V\Trí tuệ nhân tạo\tri-tue-nhan-tao-master\Trò chơi xếp số\puzzle\obj\x86\Debug\puzzle.csproj.GenerateResource.cache
+D:\Kì V\Trí tuệ nhân tạo\tri-tue-nhan-tao-master\Trò chơi xếp số\puzzle\obj\x86\Debug\puzzle.csproj.CoreCompileInputs.cache
+D:\Kì V\Trí tuệ nhân tạo\tri-tue-nhan-tao-master\Trò chơi xếp số\puzzle\obj\x86\Debug\puzzle.exe
+D:\Kì V\Trí tuệ nhân tạo\tri-tue-nhan-tao-master\Trò chơi xếp số\puzzle\obj\x86\Debug\puzzle.pdb
